@@ -1,45 +1,70 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# GitHub Profile README Template 1
 
-###
+Hi there 👋 I'm Soma, an aspiring developer passionate about building cool projects and learning in public. 🚀
 
-<p align="left">My name is Somashekar <br> and   I'm a  learner from India</p>
+## About Me
 
-###
+- 🌱 Currently learning: Web development & open-source contributions
+- 💻 Tech stack: JavaScript | Python | React | Node.js
+- 📫 Reach me at: [your email/social link]
+- ⚡ Fun fact: I debug with lo-fi beats
 
-<h2 align="left">About me</h2>
+## 🛠️ Skills
 
-###
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning about AI and ML<br>🎯 Goals: Complete my checklist within 2027<br>🎲 Fun fact: Starting from Scratch</p>
+## 📌 Featured Projects
 
-###
+- Project 1: Short description of what it does
+- Project 2: Short description of what it does
 
-<h2 align="left">I code with</h2>
+## 📊 GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+---
 
-###
+# GitHub Profile README Template 2
+
+Hello World! 👋 I'm Soma, a passionate coder and lifelong learner. I love creating projects that make a difference.
+
+## About Me
+
+- Currently exploring: Full-stack development and cloud technologies
+- Favorite languages: JavaScript, Python, and Go
+- Contact: [your email/social link]
+
+## Skills
+
+- Frontend: React, Vue, HTML, CSS
+- Backend: Node.js, Express, Django
+- Databases: PostgreSQL, MongoDB
+- Tools & Platforms: Docker, Kubernetes, Git, GitHub
+
+## Projects
+
+- Awesome Project 1: A web app that helps users track their habits.
+- Awesome Project 2: An open-source library for data visualization.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+# Profile Photos for Better Reach
+
+Including a clear, friendly profile photo can increase your profile's reach and engagement. Here are some tips:
+
+- Use a high-resolution image with good lighting.
+- Smile and maintain eye contact with the camera.
+- Use a simple background to keep the focus on you.
+- Dress appropriately for your professional image.
+
+You can host your profile photo on GitHub or any image hosting service and link it in your README like this:
+
+```markdown
+![Profile Photo](https://your-image-url.com/photo.jpg)
